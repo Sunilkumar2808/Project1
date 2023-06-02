@@ -1,0 +1,21 @@
+.MainContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gainsboro;
+    padding: 40px;
+}
+
+.inputcontent {
+    width: 400px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.labelcontent {
+    justify-content: flex-start;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
